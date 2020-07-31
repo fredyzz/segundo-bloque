@@ -1,0 +1,2 @@
+(this["webpackJsonpsegundo-bloque"]=this["webpackJsonpsegundo-bloque"]||[]).push([[0],{3:function(e,n,t){e.exports=t(9)},8:function(e,n,t){},9:function(e,n,t){"use strict";t.r(n);var a=t(0),o=t.n(a),r=t(2),u=t.n(r);t(8);var c=function(){return o.a.createElement("div",{className:"App"},o.a.createElement("h1",null,"App"))};u.a.render(o.a.createElement(o.a.StrictMode,null,o.a.createElement(c,null)),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.bb52c299.chunk.js.map
